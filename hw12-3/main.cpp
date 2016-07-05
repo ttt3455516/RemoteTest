@@ -19,5 +19,6 @@ int main() {
 	{
 		cout << *e << " with area equals " << e->getArea() << endl;
 	}
+	//test
 	return 0;
 }
